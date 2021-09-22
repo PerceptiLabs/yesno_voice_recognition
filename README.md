@@ -25,7 +25,7 @@ This repo contains the following structure:
 
 The following shows a partial example of the data stored in **dataset.csv**:
 
-| **labels**  | **images**                    |
+| **labels**  | **image**                    |
 |-------------|-------------------------------|
 | yes       | train_images/yes0.jpg       |
 | yes       | train_images/yes1.jpg       |
